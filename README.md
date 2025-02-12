@@ -33,7 +33,7 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 - lets style the `footer`
 
-- what 
+- explore other styling changes 
   
 
 ## Coding Resources
