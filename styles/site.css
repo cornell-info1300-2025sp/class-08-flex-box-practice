@@ -1,0 +1,95 @@
+/* Note: No credit is provided for submitting design and/or code that is taken */
+/*       from course-provided examples.                                        */
+/*                                                                             */
+/* Do not copy this code into your project submission and then change it.      */
+/*                                                                             */
+/* Write your own code from scratch. Use this example as a REFERENCE only.     */
+/*                                                                             */
+/* You may not copy this code, change a few names/variables, and then claim it */
+/* as your own. It does not matter if you can explain what every line does.    */
+/*                                                                             */
+/* Examples are provided to help you learn. Copying the example and then       */
+/* changing it a bit, does not help you learn the learning objectives of this  */
+/* assignment. You need to write your own code from scratch to help you learn. */
+
+html {
+  font-family: 'Lucida Grande', 'Cantarell', 'Arial', sans-serif;
+}
+
+body {
+  background-color: #95b0ce;
+  color: #000000;
+  padding: 10px;
+}
+
+h1 {
+  margin: 18px;
+}
+
+h2 {
+  border-bottom: 1px solid #f5f1f1;
+}
+
+blockquote {
+  border-radius: 6px;
+  background-color: #eff0f5;
+  border: 1px solid #cacaca;
+  font-family: monospace;
+}
+
+em {
+  font-style: normal;
+  background-color: #eff0f5;
+  font-family: monospace;
+}
+
+p strong {
+  color: #051a3a;
+  border-left: 4px solid #0d3b90;
+}
+
+section p strong {
+  border: none;
+  color: #000000;
+}
+
+nav menu {
+  margin: 0;
+  padding: 0;
+}
+
+nav menu li {
+  list-style: none;
+}
+
+nav menu li a {
+  display: block;
+  padding: 10px;
+
+  border-bottom: 3px solid #efece5;
+  color: black;
+
+  font-size: 140%;
+  text-decoration: none;
+}
+
+nav menu li a:hover {
+  border-bottom: 3px solid #55bea9;
+  background-color: #ffffff;
+}
+
+h2 {
+  font-size: 160%;
+}
+
+.fit-width {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  min-width: 400px;
+}
+
+header img {
+  width: auto;
+  min-width: auto;
+}
