@@ -38,10 +38,8 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Coding Resources
 
-- **CSS Reference:** [MND CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-  - [MND Text Styling Guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)
-  - [Colors by Name](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
-  - [Selectors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [MND Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
   
 ## VS Code and Development Server
 
