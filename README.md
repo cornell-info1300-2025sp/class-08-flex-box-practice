@@ -40,8 +40,8 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Coding Resources
 
-- [Course Flexbox How To Guide](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/resources/flexbox-how-to-guide.pdf)
-- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [INFO1300 Flexbox How To Guide](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/resources/flexbox-how-to-guide.pdf)
+- [CSS-Tricks Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MND Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
   
 ## VS Code and Development Server
