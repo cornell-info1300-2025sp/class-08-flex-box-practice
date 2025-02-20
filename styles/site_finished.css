@@ -115,3 +115,12 @@ footer {
   padding: 0.25em;
   text-align: center;
 }
+
+/* side-by-side in popular.html */
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* just an example of alignment */
+}
+
