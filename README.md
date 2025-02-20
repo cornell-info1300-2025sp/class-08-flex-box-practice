@@ -33,11 +33,14 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 - lets style the `footer`
 
+- lets put the text and image side-by-side in the `popular.html` page
+
 - explore other styling changes 
   
 
 ## Coding Resources
 
+- [Course Flexbox How To Guide](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/resources/flexbox-how-to-guide.pdf)
 - [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MND Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
   
